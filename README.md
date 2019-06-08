@@ -1,1 +1,0 @@
-# soomk.github.io
