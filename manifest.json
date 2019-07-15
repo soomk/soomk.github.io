@@ -1,11 +1,21 @@
 {
-  "short_name": "Sym3D",
-  "name": "Symbolic3D Demo",
+  "short_name": "SQVE",
+  "name": "SpacetimeQ Video Editor Demo",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+    },
+    {
+      "src": "/img/icons-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
